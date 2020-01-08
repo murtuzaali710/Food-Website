@@ -709,7 +709,7 @@ footer p{
 
 /**** Animation**/
 
-.js--wp-1{
+/*.js--wp-1{
 	opacity: 0;
 
 }
@@ -717,7 +717,7 @@ footer p{
 .js--wp-1.animated{
 	opacity: 1;
 
-}
+}*/
 
 
 
